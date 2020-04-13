@@ -49,19 +49,14 @@ Tokei는 코드에 대한 통계를 표시하는 프로그램입니다. Tokei는
 
 - Tokei 는 **매우 빠릅니다**, 다른 것들과 비교를 보여주는 [최근 릴리즈](https://github.com/XAMPPRocky/tokei/releases/latest)를 확인해보세요.
 
-- Tokei is **accurate**, Tokei correctly handles multi line comments,
-  nested comments, and not counting comments that are in strings. Providing an
-  accurate code statistics.
+- Tokei는 **정확합니다**, Tokei는 여러 줄의 주석, 중첩 된 주석을 바르게 처리하고 문자열에 있는 주석도 계산하지 않습니다. 정확한 코드 통계를 제공합니다.
 
-- Tokei has huge range of languages, supporting over **150** languages, and
-  their various extensions.
+- Tokei는 **150개** 이상의 광범위한 언어와 다양한 확장을 지원있습니다.
 
-- Tokei can output in multiple formats(**CBOR**, **JSON**, **TOML**, **YAML**)
-  allowing Tokei's output to be easily stored, and reused. These can also be
-  reused in tokei combining a previous run's statistics with another set.
+- Tokei는 여러 형식 (**CBOR**, **JSON**, **TOM**, **YAML**)으로 출력 할 수 있으며 Tokei의 출력을 쉽게 저장, 재사용 할 수 있습니다. 
+  이전 실행의 통계를 다른 세트와 결합하여 tokei에서 재사용 할 수도 있습니다.
 
-- Tokei is available on **Mac**, **Linux**, and **Windows**. See [installation
-  instructions](#installation) for how to get Tokei on your platform.
+- Tokei는 **Mac**, **Linux**, **Windows** 에서 사용가능합니다. OS별로 어떻게 설치하는지 [설치법]을 참고해주세요.
 
 - Tokei is also a **library** allowing you to easily integrate it with other
   projects.
